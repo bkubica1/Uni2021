@@ -1,9 +1,3 @@
---Group 60
---Samuel Rudd 1905414
---Bartosz Kubica 976006
---Luke Smith 978232
-
-
 import Test.QuickCheck
 import System.IO
 import Data.List
