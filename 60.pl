@@ -1,11 +1,3 @@
-%Group 60
-%Bartosz Kubica 976006
-%Luke Smith 978232
-%Samuel Rudd 1905414
-
-%All members contributed an equal amount to the assignment
-
-%--------------------
 %Question 1
 parent(mary,georgeVI).
 parent(mary,henry).
